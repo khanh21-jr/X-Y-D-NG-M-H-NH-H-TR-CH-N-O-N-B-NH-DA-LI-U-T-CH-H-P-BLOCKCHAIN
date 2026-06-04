@@ -251,7 +251,7 @@ Thông tin lưu trữ:
 # 👨‍💻 10. Thông tin sinh viên
 
 * **Họ và tên:** Nguyễn Tuấn Anh
-* **Mã sinh viên:**1671020022
+* **Mã sinh viên:** 1671020022
 * **Lớp:** CNTT 16-04
 * **Khoa:** Công nghệ Thông tin
 * **Trường:** Đại học Đại Nam
