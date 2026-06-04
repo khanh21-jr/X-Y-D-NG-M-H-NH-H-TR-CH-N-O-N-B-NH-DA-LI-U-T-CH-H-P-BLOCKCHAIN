@@ -1,0 +1,10 @@
+{
+  "name": "prediction-ledger-chaincode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hyperledger Fabric chaincode for skin disease prediction history",
+  "main": "index.js",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.6"
+  }
+}

@@ -1,0 +1,148 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-04-27T06:28:12Z",
+    "source": "web",
+    "image_name": "ISIC_0029313.jpg",
+    "image_sha256": "240a1eb93d14f1023abf0faabf710e39ad010be1c8ad71c4d23c7310d46bc34e",
+    "model_dir": "D:\\opencv\\test\\skin-disease-classifier",
+    "top_k": 5,
+    "predictions": [
+      {
+        "code": "NV",
+        "label": "Melanocytic Nevus",
+        "score": 0.9975385665893555
+      },
+      {
+        "code": "MEL",
+        "label": "Melanoma",
+        "score": 0.0019730515778064728
+      },
+      {
+        "code": "BKL",
+        "label": "Benign Keratosis",
+        "score": 0.0003398489789105952
+      },
+      {
+        "code": "BCC",
+        "label": "Basal Cell Carcinoma",
+        "score": 0.00014013984764460474
+      },
+      {
+        "code": "SCC",
+        "label": "Squamous Cell Carcinoma",
+        "score": 4.785709734278498e-06
+      }
+    ],
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "f568607b9098fbdbd9d1dc3e604786d109422ee8a2561553db8b92af6589cc62",
+    "signature": "aeeca2aa3c3e2c94eb6d5816d3dd0b6a64dc02837d2f78f94ec6f8d5c5c34a9c"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-04-27T06:50:40Z",
+    "source": "web",
+    "image_name": "ISIC_0029313.jpg",
+    "image_sha256": "240a1eb93d14f1023abf0faabf710e39ad010be1c8ad71c4d23c7310d46bc34e",
+    "model_dir": "D:\\opencv\\test\\skin-disease-classifier",
+    "top_k": 5,
+    "predictions": [
+      {
+        "code": "NV",
+        "label": "Melanocytic Nevus",
+        "score": 0.9975385665893555
+      },
+      {
+        "code": "MEL",
+        "label": "Melanoma",
+        "score": 0.0019730515778064728
+      },
+      {
+        "code": "BKL",
+        "label": "Benign Keratosis",
+        "score": 0.0003398489789105952
+      },
+      {
+        "code": "BCC",
+        "label": "Basal Cell Carcinoma",
+        "score": 0.00014013984764460474
+      },
+      {
+        "code": "SCC",
+        "label": "Squamous Cell Carcinoma",
+        "score": 4.785709734278498e-06
+      }
+    ],
+    "previous_hash": "f568607b9098fbdbd9d1dc3e604786d109422ee8a2561553db8b92af6589cc62",
+    "hash": "b719ef18f57b993454ad2bab2998b93607da1dd96cff54c227656a5102e31f99",
+    "signature": "d818a5c3b36c422d1ecd3f53547cd61bf4edf5d548723def4c51cfb93d6d2679"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-04-27T07:05:34Z",
+    "source": "web",
+    "image_name": "ISIC_0029306.jpg",
+    "image_sha256": "c8a901ebbc3d94c595cdbec415b90b2a39f5335e8305f58e4b1832670b1fe8f3",
+    "model_dir": "D:\\opencv\\test\\skin-disease-classifier",
+    "top_k": 5,
+    "predictions": [
+      {
+        "code": "NV",
+        "label": "Melanocytic Nevus",
+        "score": 0.9932982325553894
+      },
+      {
+        "code": "MEL",
+        "label": "Melanoma",
+        "score": 0.004452012479305267
+      },
+      {
+        "code": "BKL",
+        "label": "Benign Keratosis",
+        "score": 0.002209017053246498
+      },
+      {
+        "code": "BCC",
+        "label": "Basal Cell Carcinoma",
+        "score": 1.8357142835156992e-05
+      },
+      {
+        "code": "VASC",
+        "label": "Vascular Lesion",
+        "score": 9.122368282987736e-06
+      }
+    ],
+    "previous_hash": "b719ef18f57b993454ad2bab2998b93607da1dd96cff54c227656a5102e31f99",
+    "hash": "ae533d38a27fa2a06cf550752a42b7ee96d04e7b37165b272b416b5d62e526e5",
+    "signature": "13e5c19c4e83aaaffa5c6516d62234f62caff59c217206d8b9067b764e1317bf"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-06-01T07:26:45Z",
+    "source": "web",
+    "image_name": "OIP.jfif",
+    "image_sha256": "85b91049eeaae8907e9dacc4d8a3b83c31d157ce1b796ea4b2d69e0ed5556f45",
+    "model_dir": "Anwarkh1/Skin_Cancer-Image_Classification",
+    "top_k": 3,
+    "predictions": [
+      {
+        "code": "actinic_keratoses",
+        "label": "actinic_keratoses",
+        "score": 0.782463550567627
+      },
+      {
+        "code": "benign_keratosis-like_lesions",
+        "label": "benign_keratosis-like_lesions",
+        "score": 0.15567320585250854
+      },
+      {
+        "code": "basal_cell_carcinoma",
+        "label": "basal_cell_carcinoma",
+        "score": 0.01984136365354061
+      }
+    ],
+    "previous_hash": "ae533d38a27fa2a06cf550752a42b7ee96d04e7b37165b272b416b5d62e526e5",
+    "hash": "815f5cdd2c677100655f3b83c21b18d6bdfbb3cacb31f2501850b8a07ddf8176",
+    "signature": "9631762a2b220d56429b6d4284efe93728ed6717a01f353a0a3b1f20fdf44386"
+  }
+]
