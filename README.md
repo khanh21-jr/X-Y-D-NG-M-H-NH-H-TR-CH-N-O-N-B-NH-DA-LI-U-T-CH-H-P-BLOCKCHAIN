@@ -5,7 +5,7 @@
 </h2>
 
 <h1 align="center">
- PHÂN LOẠI HOA QUẢ VÀ QUẢN LÝ BẰNG BLOCKCHAIN
+ XÂY DỰNG MÔ HÌNH HỖ TRỢ CHẨN ĐOÁN BỆNH DA LIỄU TÍCH HỢP BLOCKCHAIN
 </h1>
 
 <div align="center">
@@ -24,5 +24,5 @@
 
 
 
-# XÂY DỰNG MÔ HÌNH HỖ TRỢ CHẨN ĐOÁN BỆNH DA LIỄU TÍCH HỢP BLOCKCHAIN
+# 
 
