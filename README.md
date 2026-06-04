@@ -172,7 +172,7 @@ python app.py
 ## 4️⃣ Truy cập giao diện
 
 ```text
-http://127.0.0.1:5000
+http://127.0.0.1:8000
 ```
 
 ---
@@ -251,6 +251,7 @@ Thông tin lưu trữ:
 # 👨‍💻 10. Thông tin sinh viên
 
 * **Họ và tên:** Nguyễn Tuấn Anh
+* **Mã sinh viên:**1671020022
 * **Lớp:** CNTT 16-04
 * **Khoa:** Công nghệ Thông tin
 * **Trường:** Đại học Đại Nam
