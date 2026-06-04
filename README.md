@@ -45,8 +45,8 @@ Nâng cao khả năng nghiên cứu và ứng dụng công nghệ mới trong l�
 
 Chẩn đoán bệnh da liễu từ ảnh tải lên
 
-*✅ Phân loại nhiều loại bệnh da liễu khác nhau
-*✅ Hiển thị kết quả dự đoán trực quan
-*✅ Lưu lịch sử chẩn đoán
-*✅ Kết nối Blockchain để xác thực dữ liệu
-*✅ Quản lý thông tin bệnh nhân và kết quả chẩn đoán
+*✅ Phân loại nhiều loại bệnh da liễu khác nhau<br>
+*✅ Hiển thị kết quả dự đoán trực quan <br>
+*✅ Lưu lịch sử chẩn đoán<br>
+*✅ Kết nối Blockchain để xác thực dữ liệu<br>
+*✅ Quản lý thông tin bệnh nhân và kết quả chẩn đoán<br>
