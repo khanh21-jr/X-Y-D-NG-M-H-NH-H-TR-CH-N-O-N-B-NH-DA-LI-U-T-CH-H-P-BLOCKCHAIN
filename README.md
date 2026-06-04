@@ -84,6 +84,54 @@ Chẩn đoán bệnh da liễu từ ảnh tải lên
 * Hỗ trợ truy vấn dữ liệu nhanh chóng
 * Dễ dàng mở rộng và nâng cấp hệ thống
 
+# ⚙️ 4. Công nghệ sử dụng
+
+| Thành phần         | Công nghệ sử dụng        |
+| ------------------ | ------------------------ |
+| AI / Deep Learning | TensorFlow, CNN          |
+| Xử lý ảnh y tế     | OpenCV                   |
+| Backend            | Python, Flask            |
+| Frontend           | HTML, CSS, JavaScript    |
+| Blockchain         | Ethereum, Smart Contract |
+| Ví Blockchain      | MetaMask                 |
+| Cơ sở dữ liệu      | MongoDB                  |
+| Quản lý mã nguồn   | GitHub                   |
+
+---
+
+# 📂 5. Cấu trúc dự án
+
+```bash
+chandoanbenhdalieu_blockchain/
+│
+├── dataset/
+│   ├── acne/
+│   ├── eczema/
+│   ├── psoriasis/
+│   ├── melanoma/
+│
+├── model/
+│   ├── skin_disease_model.h5
+│
+├── blockchain/
+│   ├── smart_contract.sol
+│
+├── static/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│
+├── templates/
+│   ├── index.html
+│   ├── history.html
+│
+├── app.py
+├── train.py
+├── predict.py
+├── blockchain.py
+├── requirements.txt
+├── README.md
+```
 
 
 
