@@ -250,8 +250,8 @@ Thông tin lưu trữ:
 
 # 👨‍💻 10. Thông tin sinh viên
 
-* **Họ và tên:** Bùi Anh Tuấn
-* **Lớp:** CNTT 16-03
+* **Họ và tên:** Nguyễn Tuấn Anh
+* **Lớp:** CNTT 16-04
 * **Khoa:** Công nghệ Thông tin
 * **Trường:** Đại học Đại Nam
 
