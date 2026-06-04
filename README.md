@@ -50,3 +50,39 @@ Chẩn đoán bệnh da liễu từ ảnh tải lên
 *✅ Lưu lịch sử chẩn đoán<br>
 *✅ Kết nối Blockchain để xác thực dữ liệu<br>
 *✅ Quản lý thông tin bệnh nhân và kết quả chẩn đoán<br>
+
+---
+
+# ✨ 3. Tính năng nổi bật
+
+## 🟢 Hệ thống AI
+
+* Nhận diện bệnh da liễu bằng mô hình CNN
+* Phân tích hình ảnh tự động
+* Dự đoán nhanh chóng
+* Độ chính xác cao
+* Hỗ trợ mở rộng tập dữ liệu bệnh da liễu
+
+## 🔴 Blockchain
+
+* Lưu trữ thông tin chẩn đoán
+* Tăng tính minh bạch và bảo mật dữ liệu
+* Truy xuất nguồn gốc thông tin y tế
+* Đảm bảo tính toàn vẹn hồ sơ bệnh án
+
+## 🟡 Giao diện Web
+
+* Thiết kế đơn giản, dễ sử dụng
+* Tải ảnh trực tiếp từ thiết bị
+* Hiển thị kết quả chẩn đoán trực quan
+* Theo dõi lịch sử chẩn đoán
+
+
+
+
+
+
+
+
+
+
